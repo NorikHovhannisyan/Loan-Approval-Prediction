@@ -55,17 +55,6 @@ The dataset contains information about loan applicants, such as:
 ## 🧠 Model Architecture
 
 A **Feed-Forward Neural Network (Fully Connected Layers)** was implemented using **Keras**.
-
-python
-`from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout`
-
-`model = Sequential([
-    Dense(64, activation='relu', input_shape=(X_train.shape[1],)),
-    Dropout(0.3),
-    Dense(32, activation='relu'),
-    Dense(1, activation='sigmoid')
-])`
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## 📈 Results
