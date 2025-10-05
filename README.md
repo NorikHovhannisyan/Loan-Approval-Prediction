@@ -59,14 +59,14 @@ ________________________________________________________________________________
 
 ## 📈 Results
 
-• Achieved around 92% accuracy on the test set (replace with your actual result).
+• Achieved around 92% accuracy on the test set.
 • The model successfully captures patterns related to credit history, income, and property area.
 
 ## 🚀 How to Run
 
 1. Clone this repository
 
-`git clone [https://github.com/<your-username>/Loan-Approval-Prediction.git](https://github.com/NorikHovhannisyan/Loan-Approval-Prediction.git)`
+`git clone `[https://github.com/<your-username>/Loan-Approval-Prediction.git](https://github.com/NorikHovhannisyan/Loan-Approval-Prediction.git)
 
 2. Install dependencies
 
