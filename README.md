@@ -66,13 +66,13 @@ ________________________________________________________________________________
 
 1. Clone this repository
 
-git clone [https://github.com/<your-username>/Loan-Approval-Prediction.git](https://github.com/NorikHovhannisyan/Loan-Approval-Prediction.git)
+`git clone [https://github.com/<your-username>/Loan-Approval-Prediction.git](https://github.com/NorikHovhannisyan/Loan-Approval-Prediction.git)`
 
 2. Install dependencies
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. Run the notebook
 
-jupyter notebook Loan_approval.ipynb
+`jupyter notebook Loan_approval.ipynb`
